@@ -30,6 +30,9 @@ domain: web.tnp.me.uk
 twitter_username: TheNoviceProspect
 github_username:  TheNoviceProspect
 
+show_downloads: true
+google_analytics: G-BC0NPE4Y08
+
 # Build settings
 theme: jekyll-theme-hacker
 plugins:
