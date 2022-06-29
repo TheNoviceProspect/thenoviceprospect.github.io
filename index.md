@@ -8,7 +8,9 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[About TheNoviceProspect](./about/).
+
+[TheNoviceProspect's Blog](./blog.html).
 
 There should be whitespace between paragraphs.
 
