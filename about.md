@@ -5,12 +5,6 @@ title: About
 permalink: /about/
 ---
 
-## Navigation
-
-[TheNoviceProspect]({{ site.url }}).
-
-[TheNoviceProspect's Blog](/blog/).
-
 ## All about **The Novice Prospect**
 
 Hello, my name is Sebastian and I like PC games (since I was about 7 years old)!
@@ -29,8 +23,8 @@ The feeling of looking at something new, with no idea of what's going on, and di
 
 Let me share in that journey ...
 
-Jun 2022
-Sebastian Meier zu Biesen
+Jun 2022<br />
+Sebastian
 
 * * *
 

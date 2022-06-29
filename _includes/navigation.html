@@ -1,0 +1,5 @@
+<nav>
+    <a href="/" class="btn" {% if page.url == "/" %}style="color: green;"{% endif %}>Home</a>
+    <a href="/blog/" class="btn" {% if page.url == "/blog/" %}style="color: red;"{% endif %}>Blog</a>
+    <a href="/about" class="btn" {% if page.url == "/about/" %}style="color: red;"{% endif %}>About</a>
+</nav>

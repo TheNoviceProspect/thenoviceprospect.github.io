@@ -6,12 +6,6 @@
 layout: default
 ---
 
-## Navigation
-
-Read [About TheNoviceProspect](./about/).
-
-[TheNoviceProspect's Blog](./blog.html).
-
 ### Games with current Series
 
 - [Satisfactory](https://www.youtube.com/watch?v=F2zch49qDwI&list=PLuRZiBd8Z0Aq5GqtK5UoLY66ZI3Sg-3tS)
