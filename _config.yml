@@ -21,7 +21,7 @@
 title: The Novice Prospect
 email: sebastian@tnp.me.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  TheNoviceProspect YouTube channel shows game videos from 'builder'-games
+  TheNoviceProspect YouTube channel shows game videos from builder-games
   (Factorio, SAtisfactory etc..) to simulators and more from a novice's perspective.
   TheNoviceProspect also show videos of linux tutorials for beginners.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -34,7 +34,8 @@ github_username:  TheNoviceProspect
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
-#  - jekyll-seo
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
