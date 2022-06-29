@@ -21,16 +21,15 @@
 title: The Novice Prospect
 email: sebastian@tnp.me.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  TheNoviceProspect YouTube channel shows game videos from builder-games
-  (Factorio, SAtisfactory etc..) to simulators and more from a novice's perspective.
+  YouTube channel shows you game videos from a novice's perspective.
   TheNoviceProspect also show videos of linux tutorials for beginners.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://web.tnp.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
 domain: web.tnp.me.uk
-twitter_username: TheNoviceProspect
+twitter_username: NoviceProspect
 github_username:  TheNoviceProspect
 
-show_downloads: true
+show_downloads: false
 google_analytics: G-BC0NPE4Y08
 
 # Build settings

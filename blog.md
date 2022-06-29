@@ -1,10 +1,11 @@
 ---
 layout: default
+permalink: /blog/
 ---
 
 [TheNoviceProspect]({{ site.url  }}).
 
-[TheNoviceProspect's Blog](./blog.html).
+[About TheNoviceProspect's Blog](/about/).
 
 <ul>
   {% for post in site.posts %}

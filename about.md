@@ -5,12 +5,36 @@ title: About
 permalink: /about/
 ---
 
+## Navigation
+
 [TheNoviceProspect]({{ site.url }}).
 
-[TheNoviceProspect's Blog](./blog.html).
+[TheNoviceProspect's Blog](/blog/).
 
+## All about **The Novice Prospect**
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, my name is Sebastian and I like PC games (since I was about 7 years old)!
+
+I remember playing the original MS Flight Simulator in *glorious* CGA (if memory serves well, which is questionable at my age :laughing: )
+
+I have served computer users the world over in my capacity as "Tech Support Engineer" for 20+ years.
+(And I swore to myself, that one more call starting with: "My printer is not printing!" would have me loose my mind :unamused: )
+
+Time to find another occupation!<br />
+Again: I like PC games! So might as well combine what I like doing, with something I have not done before. 
+
+And through all my years of witnessing the growth of the PC's capabilities, and the awe-inspiring environments, develeopers have lovingly crafted, one thing remained constant for me.
+
+The feeling of looking at something new, with no idea of what's going on, and discovering a(ny) game from scratch. 
+
+Let me share in that journey ...
+
+Jun 2022
+Sebastian Meier zu Biesen
+
+* * *
+
+This website is based on the Jekyll static site generator. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

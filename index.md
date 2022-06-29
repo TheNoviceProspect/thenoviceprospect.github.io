@@ -6,93 +6,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## Navigation
 
-[About TheNoviceProspect](./about/).
+Read [About TheNoviceProspect](./about/).
 
 [TheNoviceProspect's Blog](./blog.html).
 
-There should be whitespace between paragraphs.
+### Games with current Series
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- [Satisfactory](https://www.youtube.com/watch?v=F2zch49qDwI&list=PLuRZiBd8Z0Aq5GqtK5UoLY66ZI3Sg-3tS)
+- [No Man's Sky](https://www.youtube.com/watch?v=Pfj9j64duFs&list=PLuRZiBd8Z0AqQu2zZVGclTt4q0hfYRrgB)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Games
-
-- Satisfactory
-- No Man's Sky
-
-### Linux
+### Linux Tutorials
 
 - Arch Linux
 - Game Servers
 
-## Streams/Videos
+## Schedule
 
-### Stream Schedule
-
-### Upload Schedule
-
-## Blog
-
-## Links
+|                                                            | **Mon**                         | **Tue**                        | **Wed**                         | **Thu**                                 | **Fri**                         |
+|------------------------------------------------------------|---------------------------------|--------------------------------|---------------------------------|-----------------------------------------|---------------------------------|
+| **Stream**<br>*(Time indicates <br>start of stream)*       | Satisfactory<br>(12:15PM UTC+1) |                                | Satisfactory<br>(12:15PM UTC+1) |                                         | Satisfactory<br>(12:15PM UTC+1) |
+| **Pre-recorded**<br>*(Time indicates<br>publication time)* |                                 | No Man's Sky<br>(4:00PM UTC+1) |                                 | This week's Epic Game<br>(6:00PM UTC+1) |                                 |
