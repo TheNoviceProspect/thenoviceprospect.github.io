@@ -78,7 +78,10 @@ header h1 {
 
 
 header h1:before {
-  content: "./ ";
+  //content: "./ ";
+  content:url('../images/logo.png');
+  width: 50%;
+  height: 50%;
   font-size: 24px;
 }
 
