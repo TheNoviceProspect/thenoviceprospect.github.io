@@ -258,6 +258,8 @@ DEPENDENCIES
   github-pages (~> 226)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag (~> 2.8)
+  jekyll-sitemap (~> 1.4)
   jekyll-theme-hacker (~> 0.2)
   tzinfo (~> 1.2)
   tzinfo-data
