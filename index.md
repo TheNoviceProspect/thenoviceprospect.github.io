@@ -5,8 +5,11 @@
 #layout: home
 layout: default
 ---
+## Welcome to
 
-### Games with current Series
+`TheNoviceProspect`
+
+### Current Series
 
 - [Satisfactory](https://www.youtube.com/watch?v=F2zch49qDwI&list=PLuRZiBd8Z0Aq5GqtK5UoLY66ZI3Sg-3tS)
 - [No Man's Sky](https://www.youtube.com/watch?v=Pfj9j64duFs&list=PLuRZiBd8Z0AqQu2zZVGclTt4q0hfYRrgB)
