@@ -59,11 +59,18 @@ header {
   margin: 0 0 40px 0;
 }
 
+header::before {
+  //content: "./ ";
+  content:url('../images/logo.png');
+  width: 50%;
+  height: 50%;
+  //font-size: 24px;
+}
+
 header h1 {
   font-size: 30px;
   line-height: 1.5;
   margin: 0 0 0 -40px;
-  vertical-align: top;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $conifer;//$header;
@@ -78,13 +85,13 @@ header h1 {
 }
 
 
-header h1:before {
-  //content: "./ ";
-  content:url('../images/logo.png');
-  width: 50%;
-  height: 50%;
-  //font-size: 24px;
-}
+// header h1:before {
+//   //content: "./ ";
+//   content:url('../images/logo.png');
+//   width: 50%;
+//   height: 50%;
+//   //font-size: 24px;
+// }
 
 header h2 {
   font-size: 18px;
