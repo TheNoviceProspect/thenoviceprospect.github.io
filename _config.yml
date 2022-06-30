@@ -29,7 +29,7 @@ domain: web.tnp.me.uk
 twitter_username: NoviceProspect
 github_username:  TheNoviceProspect
 
-markdown: GFM
+#markdown: GFM
 #markdown: kramdown
 
 show_downloads: false
