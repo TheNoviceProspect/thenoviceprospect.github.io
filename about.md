@@ -20,7 +20,7 @@ I have served computer users the world over in my capacity as
 
 would have me loose my mind :joy: )
 
-Time to find another occupation!<br />
+Time to find another occupation! \
 Again: I like PC games! So might as well combine what I like doing,
 with something I have not done before.
 
@@ -33,16 +33,16 @@ and discovering a(ny) game from scratch.
 
 Let me share in that journey ...
 
-Jun 2022<br />
+Jun 2022 \
 Sebastian
 
 * * *
 
 This website is based on the Jekyll static site generator. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
+You can find the source code for the original hacker theme at GitHub:
 [jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[hacker theme](https://github.com/pages-themes/hacker)
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
