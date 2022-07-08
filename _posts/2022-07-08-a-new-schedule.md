@@ -3,6 +3,7 @@ layout: post
 title:  "Reworked Schedules"
 date:   2022-07-08 10:01:23 +0100
 categories: schedule update
+author: Sebastian Meier zu Biesen
 ---
 
 ## Intro
