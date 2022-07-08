@@ -11,7 +11,7 @@ As some may have noticed on my schedule, I have decided to change things about.
 Satisfactory is now a pre-recorded series, and more importantly No Man's Sky is
 now a stream that will be published twice a week.
 
-I have also included a "campaign" based game, Assassin's Creed: Valhalla
+I have also included a "campaign" based game, Control
 
 ## Full Explanation
 
@@ -22,7 +22,7 @@ I have thus decided to put my "best" (in relative terms) series into the
 spotlight, as it were.
 
 Having reviewed one of my older series, I realized that doing another campaign-based
-game might actually be beneficial as well, and since I only recently aquired AC: Valhalla
+game might actually be beneficial as well, and since I only recently aquired Control
 I thought I could kill 2 birds with one stone :smile:
 
 ## Final thoughts
