@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reworked Schedules"
-date:   2022-06-29 23:32:51 +0100
+date:   2022-07-08 10:01:23 +0100
 categories: schedule update
 ---
 
