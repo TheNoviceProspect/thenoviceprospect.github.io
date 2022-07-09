@@ -2,4 +2,6 @@
 //     @import "{{ site.theme }}";
 // Then using this theme with jekyll-remote-theme will work fine.
 @import "jekyll-theme-hacker";
-canvas {display:block;}
+canvas {
+    display: block;
+}
