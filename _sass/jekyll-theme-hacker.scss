@@ -17,8 +17,8 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  /* background: $body-background url("../images/bkg.png") 0 0; */
-  background: $body-background;
+  background: $body-background url("../images/bkg.png") 0 0;
+  // background: $body-background;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
@@ -26,6 +26,10 @@ body {
 }
 
 /* General & 'Reset' Stuff */
+*{
+  margin: 0;
+  padding: 0;
+}
 
 .container {
   width: 90%;
