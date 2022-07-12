@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Delays (unfortunately) happen"
-date:   2022-07-03 18:26:51 +0100
+date:   2022-07-12 19:02:23 +0100
 categories: youtube update
 author: Sebastian Meier zu Biesen
 ---
