@@ -26,9 +26,11 @@ But it wouldn't be this bad, if I didn't decide on 3 different side projects,
 turns out my DVI to VGA adapter is buggered, so no dice, well until Amazon delivers.
 
 
+
 ### Side Project 2 (The Search for the Laptop's Power)
 
 This one was easy, except for me having wiped the laptops ssd, soooo ...
+
 
 
 #### Side Project 2.5 (Linux Install)
@@ -40,6 +42,13 @@ This one was easy, except for me having wiped the laptops ssd, soooo ...
 2 hours of my time well spent :grin:
 
 
+
 ### Side project 3 (Cleanliness is a nice feature in a B*ong)
 
 What can I say, I like a clean B*ng for my 420 needs :smile:
+
+
+
+### And who can forget Side Project 4
+
+.. writing this blog post
