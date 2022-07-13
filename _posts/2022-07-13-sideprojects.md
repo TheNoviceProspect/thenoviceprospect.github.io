@@ -6,14 +6,12 @@ categories: youtube update
 author: Sebastian Meier zu Biesen
 ---
 
-## Sideprojects are my BANE!!
-
 So it is now way past midnight, I've had a 750ml "cup" of coffee,
-about half an hour ago and I'm _almost_ done with the editing.
-
-But it wouldn't be this bad, if I didn't decide on 3 different side projects.. \
+about half an hour ago and I'm _almost_ done with the editing. \
+ \
+see: it wouldn't be this bad, if I hadn't decided on 3, well 4, different side projects..
 **DURING MY EDITING PROCESS** \
-
+ \
 ***What the heck is wrong with me???*** :wink: \
 
 ## Sideprojects? What Sideprojects???
