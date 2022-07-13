@@ -8,7 +8,7 @@ author: Sebastian Meier zu Biesen
 
 So it is now quarter to 3, and after another 750ml "cup" of coffee,
 just now, **I AM DONE** with the editing.  \
-(Thank f*ck)  \
+(Thank f$ck)  \
  \
 
 ## A few words before I upload
