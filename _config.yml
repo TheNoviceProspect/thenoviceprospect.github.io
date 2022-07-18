@@ -35,6 +35,26 @@ github_username:  TheNoviceProspect
 show_downloads: true
 google_analytics: G-BC0NPE4Y08
 
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 # Build settings
 theme: jekyll-theme-hacker
 plugins:
