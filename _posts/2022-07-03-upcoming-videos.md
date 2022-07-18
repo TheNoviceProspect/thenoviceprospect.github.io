@@ -3,7 +3,7 @@ layout: post
 title:  "Upcoming Videos - Week Starting 04/Jul/22"
 date:   2022-07-03 23:57:51 +0100
 categories: youtube update
-author: Sebastian Meier zu Biesen
+author: smzb
 ---
 
 ## What's been happening
