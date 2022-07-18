@@ -21,4 +21,6 @@ layout: default
 - Arch Linux
 - Game Servers
 
+## Schedule
+
 {% include schedule.md %}
