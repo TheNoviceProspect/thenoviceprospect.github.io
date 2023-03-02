@@ -1,0 +1,4 @@
+baseURL = 'http://about.tnp.me.uk/'
+languageCode = 'en-us'
+title = 'About The Novice Prospect'
+theme = 'ananke'
