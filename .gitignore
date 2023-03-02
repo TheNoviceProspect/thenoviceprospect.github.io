@@ -1,10 +1,5 @@
-# Generated files by hugo
-/public/
-/resources/_gen/
-
-# Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
-
-# End of https://mrkandreev.name/snippets/gitignore-generator/#Hugo
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
