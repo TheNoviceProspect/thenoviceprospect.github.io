@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   YouTube channel shows you game videos from a novice's perspective.
   TheNoviceProspect also show videos of linux tutorials for beginners.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://web.tnp.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
-domain: web.tnp.me.uk
+url: "https://about.tnp.me.uk" # the base hostname & protocol for your site, e.g. http://example.com
+domain: about.tnp.me.uk
 twitter_username: NoviceProspect
 github_username:  TheNoviceProspect
 
